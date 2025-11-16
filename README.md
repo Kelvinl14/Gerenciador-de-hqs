@@ -110,5 +110,3 @@ streamlit run app.py
 ```
 
 ---
-## 🤝 Contribuições
-
